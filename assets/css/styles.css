@@ -1,0 +1,46 @@
+html,
+body {
+    margin: 0px;
+    background-color: #2F4F30;
+    color: white;
+}
+
+.title {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.cards {
+    width: 150px;
+    position: relative;
+    left: 100px;
+    margin-left: -70px;
+}
+
+#computer-cards,
+#player-cards {
+    height: 240px;
+}
+
+
+.footer {
+    display: block;
+    align-items: center;
+    text-align: center;
+    background: #000000;
+    margin-top: 40px;
+    height: 70px;
+}
+
+
+.footer p {
+    font-size: 1.5rem;
+}
+
+.footer img {
+    padding-top: 5px;
+    width: 10rem;
+}
